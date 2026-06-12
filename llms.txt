@@ -1,0 +1,18 @@
+# World daily fiction 221 Hub
+> A modern consulting resource based in San Francisco, CA.
+
+## Site Index
+- [Home Page](/index.html): Portal overview for our services.
+- [About Us](/about.html): Our background and history.
+- [Contact](/contact.html): Office locations and communication form.
+## Publications
+- [Innovations in Digital Operations and Cloud Infrastructure](/innovations-in-digital-operations-and-cloud-infrastructure.html)
+- [Optimizing Operations for Digital Service Teams](/optimizing-operations-for-digital-service-teams.html)
+- [Enterprise Static Site Architecture and Obfuscation Guide](/enterprise-static-site-architecture-and-obfuscation-guide.html)
+- [Modern Approaches to Wellness, Health Management, and Prevention](/modern-approaches-to-wellness-health-management-and-prevention.html)
+- [Effective Project Management and Operational Efficiency](/effective-project-management-and-operational-efficiency.html)
+- [Innovations in Digital Operations and Cloud Infrastructure - In Practice](/innovations-in-digital-operations-and-cloud-infrastructure-in-practice.html)
+- [Effective Project Management and Operational Efficiency - Expert Article](/effective-project-management-and-operational-efficiency-expert-article.html)
+- [Effective Project Management and Operational Efficiency - Detailed Overview](/effective-project-management-and-operational-efficiency-detailed-overview.html)
+- [Enterprise Static Site Architecture and Obfuscation Guide - What You Should Know](/enterprise-static-site-architecture-and-obfuscation-guide-what-you-should-know.html)
+- [Optimizing Operations for Digital Service Teams - Tips and Tricks](/optimizing-operations-for-digital-service-teams-tips-and-tricks.html)
